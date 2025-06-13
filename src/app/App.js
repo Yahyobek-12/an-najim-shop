@@ -3,7 +3,10 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      <h2>Hohlaganingizcha kuting...</h2>
+      <div>
+        <h2>Hohlaganingizcha kuting...</h2>
+        <p>Baribir umuman ishlamiydi</p>
+      </div>
     </div>
   )
 }
